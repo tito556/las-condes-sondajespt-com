@@ -1,0 +1,58 @@
+# Sondajespt — Las Condes
+
+> Geotechnical engineering services in Las Condes, Chile.
+
+## Services
+- [Aislacion Sismica](https://las-condes.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://las-condes.sondajespt.com/anclajes/)
+- [Calicatas](https://las-condes.sondajespt.com/calicatas/)
+- [Calicatas Exploratorias](https://las-condes.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://las-condes.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://las-condes.sondajespt.com/cimentaciones/)
+- [Columnas Grava](https://las-condes.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://las-condes.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://las-condes.sondajespt.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://las-condes.sondajespt.com/ensayo-triaxial/)
+- [Ensayos Proctor](https://las-condes.sondajespt.com/ensayos-proctor/)
+- [Estabilidad Taludes](https://las-condes.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://las-condes.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://las-condes.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://las-condes.sondajespt.com/exploracion/)
+- [Geofisica](https://las-condes.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://las-condes.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://las-condes.sondajespt.com/granulometria/)
+- [Grouting](https://las-condes.sondajespt.com/grouting/)
+- [Inyecciones](https://las-condes.sondajespt.com/inyecciones/)
+- [Laboratorio In Situ](https://las-condes.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://las-condes.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://las-condes.sondajespt.com/licuefaccion/)
+- [Limites Atterberg](https://las-condes.sondajespt.com/limites-atterberg/)
+- [Losas Fundacion](https://las-condes.sondajespt.com/losas-fundacion/)
+- [Masw](https://las-condes.sondajespt.com/masw/)
+- [Mejoramiento](https://las-condes.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://las-condes.sondajespt.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://las-condes.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://las-condes.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://las-condes.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://las-condes.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad In Situ](https://las-condes.sondajespt.com/permeabilidad-in-situ/)
+- [Pilotes](https://las-condes.sondajespt.com/pilotes/)
+- [Placa De Carga](https://las-condes.sondajespt.com/placa-de-carga/)
+- [Refraccion Sismica](https://las-condes.sondajespt.com/refraccion-sismica/)
+- [Resistividad](https://las-condes.sondajespt.com/resistividad/)
+- [Resistividad Electrica Sev](https://las-condes.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://las-condes.sondajespt.com/sismica/)
+- [Sondajes Spt](https://las-condes.sondajespt.com/sondajes-spt/)
+- [Taludes](https://las-condes.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://las-condes.sondajespt.com/tomografia-sismica/)
+- [Triaxial](https://las-condes.sondajespt.com/triaxial/)
+- [Tuneles Suelo Blando](https://las-condes.sondajespt.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://las-condes.sondajespt.com/vibrocompactacion/)
+- [Zapatas](https://las-condes.sondajespt.com/zapatas/)
+
+## Contact
+- Website: https://las-condes.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Las Condes, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
